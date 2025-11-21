@@ -415,7 +415,7 @@ header>div {
     height: 19vw;
     background-color: #d9d9d940;
     border-radius: 25px;
-    background-image: url('./image/image.png');
+    background-image: url('../assets/image/image.png');
     background-size: cover;
     background-position: center;
 }
