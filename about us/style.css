@@ -119,6 +119,9 @@ header{
     height: 20rem;
     background-color: #ffffff50;
     border-radius: 25px;    
+    background-image: url('../assets/image/about2.png');
+    background-position: center;
+    background-size: cover;
 span{
     display: block;
 }

@@ -415,6 +415,9 @@ header>div {
     height: 19vw;
     background-color: #d9d9d940;
     border-radius: 25px;
+    background-image: url('./image/image.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .cofotx {
@@ -476,7 +479,9 @@ header>div {
     background-color: #0A1F44;
     padding: 1.1rem;
 }
-
+.cofim{
+    background-image: url('./image/image.png');
+}
 .cofi {
     display: flex;
     flex-direction: column;
